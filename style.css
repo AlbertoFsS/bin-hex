@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+div{
+    background: black;
+    width:1200px;
+    height:50px;
+
+}
+p{
+    text-align: center;
+}
+.form-box input[type="text"], .form-box input[type="password"], .form-box button[type="subimt"]{
+    border:0;
+    background: none;
+    display: block;
+    margin: 200px auto;
+    text-align: center;
+    border:2px solid #ffffff ;
+    padding:14px 10px;
+    width: 200px;
+    outline:none;
+    color:white;
+    
+    transition: 0.25s;
+  }
